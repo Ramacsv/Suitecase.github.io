@@ -20,6 +20,7 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image ](src)
+<img src="assets/images/Koala drawing.png" alt="My Drawing">
 <img src="Koala drawing.png" alt="My Drawing">
 ![My Drawing](Koala drawing.png)
 ```
