@@ -2,10 +2,6 @@
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
 
 # Header 1
 ## Header 2
@@ -20,9 +16,8 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image ](src)
-<img src="assets/images/Koala drawing.png" alt="My Drawing">
-<img src="Koala drawing.png" alt="My Drawing">
-![My Drawing](Koala drawing.png)
+
+![My Drawing](https://github.com/Ramacsv/Suitecase.github.io/blob/gh-pages/KoalaDrawing2.jpg)
 ```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
