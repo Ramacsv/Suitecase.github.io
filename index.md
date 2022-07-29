@@ -7,7 +7,7 @@
 ![My Drawing](KoalaDrawing2.jpg)
 
 <b>Image Credits - Koala Drawing By SuiteCase Friend</b>
-<hr style="border:2px solid blue">
+<hr style="border:2px solid green">
 
 ![Ocean and Flower](Ocaenflower.jpg)
 
