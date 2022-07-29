@@ -14,6 +14,12 @@
 <b>Image Credits Ocean Photo and Flower Drawing By SuiteCase Friend</b>
 <hr style="border:5px solid blue">
 
+
+![](IMG_2676copy.HEIC "My bird Drawing")
+
+<b>Image Credits Ocean Photo and Flower Drawing By SuiteCase Friend</b>
+<hr style="border:5px solid Yellow">
+
 *Enjoy*
 ### Thank you for visiting my page
 
