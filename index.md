@@ -15,8 +15,11 @@
 <hr style="border:5px solid blue">
 
 
-![](IMG_2676copy.HEIC "My bird Drawing")
-
+<html>
+ <body>
+<img src="IMG_2676copy.jpg" alt="Bird Drawing" width="200"
+</body>
+</html>
 <b>Image Credits Bird Drawing By SuiteCase Friend</b>
 <hr style="border:5px solid Yellow">
 
