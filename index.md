@@ -17,7 +17,7 @@
 
 ![](IMG_2676copy.HEIC "My bird Drawing")
 
-<b>Image Credits Ocean Photo and Flower Drawing By SuiteCase Friend</b>
+<b>Image Credits Bird Drawing By SuiteCase Friend</b>
 <hr style="border:5px solid Yellow">
 
 *Enjoy*
